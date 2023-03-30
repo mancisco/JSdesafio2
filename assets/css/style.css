@@ -1,0 +1,19 @@
+.img_border{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+img{
+    max-width: 300px;
+    max-height: 300px;
+
+}
+
+body{
+    margin-top: 100px;
+}
+
+.menu{
+    margin-top: 20px;
+    text-align: center;
+}
